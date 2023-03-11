@@ -1,4 +1,4 @@
-### Olá! Eu sou Tharles Cunha.
+### Olá!
 
 <div align="center">
   <a href="https://github.com/tharlescunha">
